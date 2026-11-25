@@ -66,7 +66,7 @@
 
 AgentPay provides a marketplace of 34 pay-per-call APIs on the Base blockchain, allowing developers to integrate tools that settle payments in USDC without requiring an account or API key. The platform offers bundled credit packs, transparent pricing, and a simple token‑based authentication model, targeting Web3 developers seeking on‑demand functionality.
 
-**Areas:** AI APIs · Crypto · Finance · Compliance · Data · Web · NLP
+**Areas:** AI APIs · Cryptocurrency · Finance · Compliance · Data · Web · Natural Language Processing
 
 ## AgentPay on APIs.io
 
@@ -81,6 +81,12 @@ Everything profiled for AgentPay is published on APIs.io rather than in this rep
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentpay-help-mcp.yml](https://apis.io/servers/agentpay-help/agentpay-help-mcp-yml/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
@@ -91,8 +97,8 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentpay Help Domain Security](https://apis.io/security/agentpay-help/agentpay-help-domain-security/)
-- [Agentpay Help Vulnerability Disclosure](https://apis.io/security/agentpay-help/agentpay-help-vulnerability-disclosure/)
+- [AgentPay Domain Security](https://apis.io/security/agentpay-help/agentpay-help-domain-security/)
+- [AgentPay Vulnerability Disclosure](https://apis.io/security/agentpay-help/agentpay-help-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -102,14 +108,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 23.4** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 17.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 81.7 |
 | Contract quality | 24.0 |
-| Contract governance | 79.1 |
-| Operational transparency | 10.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
@@ -138,8 +144,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentpay-help/](https://apis.io/providers/agentpay-help/).
 
